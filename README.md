@@ -6,8 +6,7 @@ Software Engineer & AI Researcher building products at the intersection of code,
 
 ## What I'm building
 
-- **Doable** — Execution system based on neuroscience. Not another to-do app.
-- **CleanShift** — AI-powered shift management SaaS for service businesses.
+- **Doable** — Execution system based on neuroscience.
 - **OrionLaunch** — SaaS development studio as a subscription.
 - **IndieCreator.club** — Education & community for indie hackers (EN/ES).
 
