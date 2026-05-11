@@ -7,7 +7,7 @@ Software Engineer & AI Researcher building products at the intersection of code,
 ## What I'm building
 
 - **Doable** — Execution system based on neuroscience.
-- **OrionLaunch** — SaaS development studio as a subscription.
+- **OrionLaunch** — SaaS development studio as a subscription or not?.
 - **IndieCreator.club** — Education & community for indie hackers (EN/ES).
 
 ---
